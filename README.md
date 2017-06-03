@@ -1,3 +1,5 @@
 Git 101
 --------------------
-Getting Satrted With Git
+Getting Started With Git
+This is getting better
+Creating new repository and pushing files
